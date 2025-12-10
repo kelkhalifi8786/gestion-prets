@@ -184,11 +184,11 @@ CREATE TABLE Utilisateur (
 
 ### 📌 Use Case
 
-![Use Case](use_case.png)
+![Use Case](src\images\use_case.png)
 
 ### 📌 Architecture
 
-![Architecture](archit.png)
+![Architecture](src\images\archit.png)
 
 ------------------------------------------------------------------------
 
@@ -196,7 +196,7 @@ CREATE TABLE Utilisateur (
 
 Vidéo explicative du fonctionnement :
 
-    tuto.mp4
+    src\images\tuto.mp4
 
 (Le fichier peut être téléchargé directement depuis GitHub)
 
